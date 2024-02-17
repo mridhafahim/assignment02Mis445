@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.one {
+    background-color: #f4f4f4;
+    padding: 20px;
+    display: flex;
+    height: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+a:hover{
+    background-color: #b7b0b0;
+    padding: 20px;
+    
+}
+
+.one img {
+    height: 100px;
+
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: #333;
+    margin-right: 20px;
+}
+
+
+.two {
+
+    background-image: url(360_F_578659816_v2ZJMwlpFisEE66gWt6h3POodHeLYseI.jpg);
+    background-size: cover;
+    background-position: left;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    padding:10px;
+}
+
+.two p {
+    
+    font-size: 20px;
+    color: #555454;
+    text-align: left;
+    margin-right: 670px;
+}
+
+.two h1 {
+    text-align: left;
+    margin-top: 5px;
+    font-size: 55px;
+    margin-left: 10px;
+    margin-right: 600px;
+    color: #000000;
+}
+
+.two button {
+    padding: 10px 80px;
+    font-size: 18px;
+    background-color: #09480e;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #012a01;
+    padding: 10px 82px;
+}
+
+.three {
+    background-color: #f2f2f2;
+    padding: 50px;
+    text-align: center;
+}
+
+.three h1 {
+    font-size: 40px;
+    color: #333;
+}
+.a{
+    display:flex;
+    
+}
+
+.three p {
+    text-align: left;
+    margin-top: 20px;
+    font-size: 25px;
+    color: #555;
+}
+
+.three img {
+    margin-top: 20px;
+    max-width: auto;
+    height: auto;
+}
+
+
+.four {
+    background-color: #e0e0e0;
+    padding: 70px;
+    text-align: center;
+}
+.a{
+    display:flex;
+    
+}
+
+.four p {
+    font-size: 24px;
+    color: #333;
+}
+
+.four h1 {
+    margin-top: 20px;
+    font-size: 36px;
+    color: #555;
+}
+
+.four button {
+    padding: 10px 80px;
+    font-size: 18px;
+    background-color: #09480e;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #012a01;
+    padding: 10px 82px;
+}

@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.one {
+    background-color: #f4f4f4;
+    padding: 20px;
+    display: flex;
+    height: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+a:hover{
+    background-color: #b7b0b0;
+    padding: 20px;
+    
+}
+
+.one img {
+    height: 100px;
+
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+}
+
+nav ul a {
+    text-decoration: none;
+    color: #333;
+    margin-right: 20px;
+}
+
+
+
+.two {
+    background-color: #f0f0f0;
+    padding: 60px;
+    text-align: center;
+}
+
+.two img {
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+.two h4 {
+    color: #333;
+}
+
+.two h1 {
+    color: #444;
+    font-size: 35px;
+}
+
+.two p {
+    color: #666;
+    line-height: 1.6;
+}
+
+.three {
+    background-color: #e0e0e0;
+    padding: 20px;
+    text-align: center;
+}
+
+.three h4 {
+    color: #333;
+}
+
+.three h1 {
+    color: #444;
+    font-size: 35px;
+}
+
+.three p {
+    color: #666;
+    line-height: 1.6;
+}
+.three button{
+    padding: 10px 95px;
+    font-size: 18px;
+    background-color: #09480e;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.three button:hover{
+    background-color: #012a01;
+    padding: 10px 96px;
+}
+.four {
+    background-color: #e0e0e0;
+    padding: 70px;
+    text-align: center;
+}
+.four p {
+    font-size: 24px;
+    color: #333;
+}
+
+.four h1 {
+    margin-top: 20px;
+    font-size: 36px;
+    color: #555;
+}
+
+.four button {
+    padding: 10px 80px;
+    font-size: 18px;
+    background-color: #09480e;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #012a01;
+    padding: 10px 82px;
+}
